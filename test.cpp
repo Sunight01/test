@@ -11,4 +11,6 @@ int main(){
     << "como te llamas?" << "\n>> ";
     cin >> name;
     cout << "\nHola " << name << "!" << " un gusto en conocerte ^^";
+    system(0);
+    return 0;
 }
