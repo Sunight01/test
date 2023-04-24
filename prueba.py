@@ -1,6 +1,6 @@
 def Hola():
     print("Hola mundo!")
-    print("Adios pibardos")
+    print("Adios mundo!")
     return 0
 
 
